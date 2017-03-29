@@ -1,4 +1,4 @@
-_DRC Sim_ requires two parts, a [[server|home]] and a [client](https://github.com/rolandoislas/drc-sim-client/wiki).
+_DRC Sim_ requires two parts, a [server](https://github.com/rolandoislas/drc-sim-client/wiki) and a [client](https://github.com/rolandoislas/drc-sim/wiki).
 
 Need help? Create an issue for the [server](https://github.com/rolandoislas/drc-sim/issues/new) or [client](https://github.com/rolandoislas/drc-sim-client/issues/new).
 
