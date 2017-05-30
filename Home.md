@@ -1,4 +1,4 @@
-drc-sim-client
+DRC Sim Client
 ---
 
 A desktop and mobile Wii U gamepad client.
@@ -7,14 +7,14 @@ A desktop and mobile Wii U gamepad client.
 
 # Requirements
 
-The server backend, [drc-sim-backend], is required. It handles the pairing 
+The server backend, [DRC Sim Server], is required. It handles the pairing 
 and communication with the Wii U then creates a server for the client.
 
 # Releases
 
 - [Desktop] \(Windows/OS X/Linux/Java enabled Toaster\)
 - [Android]
-- iOS - maybe - Bitcoin `1QA9sY8SDBfSVtPGzctAMVAxUzSQSS8Fx9`
+- iOS - maybe
 
 # Credits
 
@@ -31,5 +31,5 @@ and communication with the Wii U then creates a server for the client.
 [libgdx]: https://libgdx.badlogicgames.com
 [Desktop]: https://github.com/rolandoislas/drc-sim-client/releases
 [Android]: https://play.google.com/store/apps/details?id=com.rolandoislas.drcsimclient
-[drc-sim-backend]: https://github.com/rolandoislas/drc-sim
+[DRC Sim Server]: https://github.com/rolandoislas/drc-sim
 [Video]: https://www.youtube.com/watch?v=659kirZkmxg
