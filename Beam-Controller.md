@@ -1,3 +1,6 @@
+# Removed in 2.0
+---
+
 Drc-sim-client uses the Beam interactive API to allow control of a Wii U using Beam controls.
 
 With a working client and server run the client with a [Beam API](https://dev.beam.pro/tutorials/interactive.html) key.
