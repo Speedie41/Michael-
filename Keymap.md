@@ -6,6 +6,8 @@ The keybindings can be configured in the settings. These are the defaults.
 
 |Key|Function|
 |---|---|
+|Escape|Back Button (client only)|
+|F11|Fullscreen Toggle|
 |SPACE|A Button|
 |E|B Button|
 |D|X Button|
